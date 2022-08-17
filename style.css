@@ -1,0 +1,39 @@
+@font-face{font-family:PFDinDisplayPro;src:url(./fonts/PFDinDisplayPro-Regular.eot);src:local('☺'),url(./fonts/PFDinDisplayPro-Regular.woff) format('woff'),url(./fonts/PFDinDisplayPro-Regular.ttf) format('truetype'),url(./fonts/PFDinDisplayPro-Regular.svg) format('svg');}
+html {
+    font-family: PFDinDisplayPro;
+    box-sizing: border-box;
+    font-size: 16px;
+    background: url(images/background.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+body {
+    width: 100%;
+    max-width: 1350px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+header {
+    -webkit-animation-delay: 0.3s;
+    animation-delay: 0.3s;
+}
+.animation {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: animation;
+    animation-name: animation;
+}
+h1 {
+    color: #555;
+    font-size: 48px;
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 30px 0px;
+}
