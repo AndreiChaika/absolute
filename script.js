@@ -11,7 +11,7 @@ header.appendChild(h1);
 h1.textContent = 'Absolute Ear';
 const p = document.createElement('p');
 footer.appendChild(p);
-p.textContent = 'Test 2';
+p.textContent = 'Test 3';
 
 const piano = document.createElement('section');
 piano.classList.add('piano', 'animation');
