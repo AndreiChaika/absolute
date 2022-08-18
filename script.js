@@ -11,7 +11,7 @@ footer.classList.add('animation');
 document.body.appendChild(footer);
 const h1 = document.createElement('h1');
 header.appendChild(h1);
-h1.textContent = 'Virtual Keyboard by Andrei Chaika';
+h1.textContent = 'Music Pitch';
 const p = document.createElement('p');
 footer.appendChild(p);
 p.textContent = 'Клавиатура создана для Операционной системы Windows Переключение языка осуществляется через комбинацию Alt + Shift';
