@@ -2,18 +2,6 @@
 const enLang = [
   [
     {
-      key: '1',
-      name: '1',
-      nameShift: '!',
-      keyCode: 49,
-      code: 'Digit1',
-      location: 0,
-      description: '1 Key',
-      unicode: '①',
-      class: 'shortkey',
-      property: 'printable',
-    },
-    {
       key: '2',
       name: '2',
       nameShift: '@',
@@ -34,18 +22,6 @@ const enLang = [
       location: 0,
       description: '3 Key',
       unicode: '③',
-      class: 'shortkey',
-      property: 'printable',
-    },
-    {
-      key: '4',
-      name: '4',
-      nameShift: '$',
-      keyCode: 52,
-      code: 'Digit4',
-      location: 0,
-      description: '4 Key',
-      unicode: '④',
       class: 'shortkey',
       property: 'printable',
     },

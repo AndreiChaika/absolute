@@ -37,3 +37,14 @@ h1 {
     text-align: center;
     padding: 30px 0px;
 }
+
+.keyboard button {
+    height: 100px;
+    width: 20px;
+}
+.keyboard .row:first-child {
+    position: absolute;
+}
+.keyboard .row:first-child button {
+    background-color: #333;
+}
