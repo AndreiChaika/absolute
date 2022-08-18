@@ -10,7 +10,8 @@ const enLang = [
       location: 0,
       description: 'q',
       class: 'shortkey',
-      property: 'white',
+      property: 'printable',
+      color: 'white',
     },
     {
       key: '2',
@@ -22,7 +23,7 @@ const enLang = [
       description: '2 Key',
       unicode: '②',
       class: 'shortkey',
-      property: 'black',
+      property: 'printable',
     },
     {
       key: 'w',
@@ -33,7 +34,8 @@ const enLang = [
       location: 0,
       description: 'w',
       class: 'shortkey',
-      property: 'white',
+      property: 'printable',
+      color: 'white',
     },
     {
       key: '3',
@@ -45,7 +47,7 @@ const enLang = [
       description: '3 Key',
       unicode: '③',
       class: 'shortkey',
-      property: 'black',
+      property: 'printable',
     },
     {
       key: 'e',
@@ -56,7 +58,8 @@ const enLang = [
       location: 0,
       description: 'e',
       class: 'shortkey',
-      property: 'white',
+      property: 'printable',
+      color: 'white',
     },
     {
       key: 'r',
@@ -67,7 +70,8 @@ const enLang = [
       location: 0,
       description: 'r',
       class: 'shortkey',
-      property: 'white',
+      property: 'printable',
+      color: 'white',
     },
     {
       key: '5',
@@ -79,7 +83,7 @@ const enLang = [
       description: '5 Key',
       unicode: '⑤',
       class: 'shortkey',
-      property: 'black',
+      property: 'printable',
     },
     {
       key: 't',
@@ -90,7 +94,8 @@ const enLang = [
       location: 0,
       description: 't',
       class: 'shortkey',
-      property: 'white',
+      property: 'printable',
+      color: 'white',
     },
     {
       key: '6',
@@ -102,7 +107,7 @@ const enLang = [
       description: '6 Key',
       unicode: '⑥',
       class: 'shortkey',
-      property: 'black',
+      property: 'printable',
     },
     {
       key: 'y',
@@ -113,7 +118,8 @@ const enLang = [
       location: 0,
       description: 'y',
       class: 'shortkey',
-      property: 'white',
+      property: 'printable',
+      color: 'white',
     },    
     {
       key: '7',
@@ -125,7 +131,7 @@ const enLang = [
       description: '7 Key',
       unicode: '⑦',
       class: 'shortkey',
-      property: 'black',
+      property: 'printable',
     },
     {
       key: 'u',
@@ -136,7 +142,8 @@ const enLang = [
       location: 0,
       description: 'u',
       class: 'shortkey',
-      property: 'white',
+      property: 'printable',
+      color: 'white',
     },
     {
       key: 'i',
@@ -147,7 +154,8 @@ const enLang = [
       location: 0,
       description: 'i',
       class: 'shortkey',
-      property: 'white',
+      property: 'printable',
+      color: 'white',
     },
   ],
 ];
