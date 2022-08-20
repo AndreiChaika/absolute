@@ -51,13 +51,13 @@ button {
 
 .keyboard .row {
     height:18.875em;
-    width:34em;
-    margin:5em auto;
+    width:40em;
+    margin:2em auto 5em;
     padding:3em 0 0 3em;
     position:relative;
     border:1px solid #160801;
     border-radius:1em;
-    background:linear-gradient(to bottom right,rgba(0,0,0,0.3),rgba(0,0,0,0)),url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/187/vwood.png);
+    background:linear-gradient(to bottom right,rgba(0,0,0,0.3),rgba(0,0,0,0)),url(images/wood.jpg);
     box-shadow:0 0 50px rgba(0,0,0,0.5) inset,0 1px rgba(212,152,125,0.2) inset,0 5px 15px rgba(0,0,0,0.5);
 }
 .keyboard button {
@@ -108,4 +108,16 @@ button[white="true"] {
   
   .keyboard .row button:last-child {
     border-radius:0 5px 5px 5px
+  }
+
+  #KeyW, #KeyE, #KeyT, #KeyY, #KeyU {
+    margin: 0 0 0 -1em;
+  }
+  .input {
+    margin: 0 auto;
+    text-align: center;
+  }
+  .textarea {
+    height: 100px;
+    width: 40em;
   }
