@@ -14,7 +14,7 @@ header.appendChild(h1);
 h1.textContent = 'Music Pitch';
 const p = document.createElement('p');
 footer.appendChild(p);
-p.textContent = 'Клавиатура создана для Операционной системы Windows Переключение языка осуществляется через комбинацию Alt + Shift';
+p.textContent = '@ 2022 Copyright. All rights reserved';
 const input = document.createElement('section');
 input.classList.add('input', 'animation');
 main.appendChild(input);
