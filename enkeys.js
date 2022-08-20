@@ -24,6 +24,7 @@ const enLang = [
       unicode: '②',
       class: 'shortkey',
       property: 'printable',
+      color: 'black',
     },
     {
       key: 'w',
@@ -48,6 +49,7 @@ const enLang = [
       unicode: '③',
       class: 'shortkey',
       property: 'printable',
+      color: 'black',
     },
     {
       key: 'e',
@@ -84,6 +86,7 @@ const enLang = [
       unicode: '⑤',
       class: 'shortkey',
       property: 'printable',
+      color: 'black',
     },
     {
       key: 't',
@@ -108,6 +111,7 @@ const enLang = [
       unicode: '⑥',
       class: 'shortkey',
       property: 'printable',
+      color: 'black',
     },
     {
       key: 'y',
@@ -132,6 +136,7 @@ const enLang = [
       unicode: '⑦',
       class: 'shortkey',
       property: 'printable',
+      color: 'black',
     },
     {
       key: 'u',
