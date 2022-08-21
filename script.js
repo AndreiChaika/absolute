@@ -14,7 +14,7 @@ header.appendChild(h1);
 h1.textContent = 'Music Pitch';
 const p = document.createElement('p');
 footer.appendChild(p);
-p.textContent = '@ 2022 Copyright. All rights reserved       <audio id="KeyQ" src="http://carolinegabriel.com/demo/js-keyboard/sounds/040.wav"></audio>';
+p.textContent = '@ 2022 Copyright. All rights reserved1       <audio id="KeyQ" src="http://carolinegabriel.com/demo/js-keyboard/sounds/040.wav"></audio>';
 const input = document.createElement('section');
 input.classList.add('input', 'animation');
 main.appendChild(input);
