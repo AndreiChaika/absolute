@@ -1,6 +1,7 @@
 /* eslint-disable linebreak-style */
 const enLang = [
   [
+
     {
       key: 'q',
       name: 'q',
@@ -12,6 +13,7 @@ const enLang = [
       class: 'shortkey',
       property: 'printable',
       color: 'white',
+      sound: 'https://carolinegabriel.com/demo/js-keyboard/sounds/040.wav',
     },
     {
       key: '2',
